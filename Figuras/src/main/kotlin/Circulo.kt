@@ -8,7 +8,7 @@ open class Circulo: Figura {
 
     override
     fun numeroCatetos():String{
-        return "0 catetos";
+        return "1 catetos";
     }
 
     fun calcularDiametro():String{
